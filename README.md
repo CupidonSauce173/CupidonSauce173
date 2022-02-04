@@ -21,15 +21,16 @@
 | Java         | 15+         |
 | JavaScript   | ES6         |
 | HTML/CSS     | 5/3         |
-| MySQL        | 8.0+        |
-| MariaDB      | 10.5.7+     |
+
 </td><td>
   
-| **OS**| **Version** | 
-| ------------ |:-----------:|
-| CentOS       | 7+/8        |
-| Ubuntu Server| 18.04.5+    |
-  
+| **OS/Software**| **Version** | 
+| -------------- |:-----------:|
+| CentOS         | 7+/8        |
+| Ubuntu Server  | 18.04.5+    |
+| MySQL          | 8.0+        |
+| MariaDB        | 10.5.7+     |
+
 </td></tr> </table>
 
 ### Why **Pig{project}**?
