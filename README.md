@@ -9,6 +9,28 @@
 - **[PigTranslate](https://github.com/CupidonSauce173/PigTranslate)** - A in-real-time translation system for PocketMine-MP chat system using self-hosted translation software.
 - **[PigNotify](https://github.com/CupidonSauce173/PigNotify)** - Library to create notifications and store them in MySQL asynchronously.
 
+### Experiences
+<table>
+<tr><th> </th><th></th></tr>
+<tr><td>
+
+| **Languages**| **Version** | 
+| ------------ |:-----------:|
+| PHP          | 7+          |
+| ASP.NET      | 5+          |
+| Java         | 15+         |
+| JavaScript   | ES6         |
+| HTML/CSS     | 5/3         |
+| MySQL/MariaDB| 8.0+        |
+</td><td>
+  
+| **OS**| **Version** | 
+| ------------ |:-----------:|
+| CentOS       | 7+/8        |
+| Ubuntu Server| 18.04.5+    |
+  
+</td></tr> </table>
+
 ### Why **Pig{project}**?
 This is just an homage to my old network called Pigraid Network, this is when I really started to like coding.
 
