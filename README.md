@@ -21,7 +21,8 @@
 | Java         | 15+         |
 | JavaScript   | ES6         |
 | HTML/CSS     | 5/3         |
-| MySQL/MariaDB| 8.0+        |
+| MySQL        | 8.0+        |
+| MariaDB      | 10.5.7+     |
 </td><td>
   
 | **OS**| **Version** | 
