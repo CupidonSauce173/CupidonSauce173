@@ -7,10 +7,10 @@
 - **[MySQLPig](https://github.com/CupidonSauce173/MyPigSQL)** - Library for asynchronous queries.
 - **[PigFriends](https://github.com/CupidonSauce173/PigFriends)** - System for a friends system offering an API.
 - **[PigTranslate](https://github.com/CupidonSauce173/PigTranslate)** - A in-real-time translation system for PocketMine-MP chat system using self-hosted translation software.
-- **[PigNotify](https://github.com/CupidonSauce173/PigNotify)** - Library to create notifications and store them in MySQL asynchronously
+- **[PigNotify](https://github.com/CupidonSauce173/PigNotify)** - Library to create notifications and store them in MySQL asynchronously.
 
 ### Why **Pig{project}**?
-This is just an homage to my old network called Pigraid Network, this is when I really started to like coding
+This is just an homage to my old network called Pigraid Network, this is when I really started to like coding.
 
 ### Contact
 - **Twitter**: Antoine99Cup
