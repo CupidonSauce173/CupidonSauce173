@@ -17,3 +17,6 @@ This is just an homage to my old network called Pigraid Network, this is when I 
 - **Instagram**: Antoine99Cup
 - **Discord**: CupidonSauce173#0480
 - **Email**: CupidonSauce173@gmail.com
+
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CupidonSauce173.CupidonSauce173" alt="visitor badge"/>
