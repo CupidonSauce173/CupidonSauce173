@@ -11,6 +11,8 @@
 
 Consider giving me a little star if you wish to support me!
 
+**Currently learning C# & ASP.NET 6**
+
 ### Experiences
 <table>
 <tr><th> </th><th></th></tr>
