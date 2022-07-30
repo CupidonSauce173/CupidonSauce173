@@ -41,10 +41,10 @@ Consider giving me a little star if you wish to support me!
 This is just an homage to my old network called Pigraid Network, this is when I really started to like coding.
 
 ### Contact
-- **Twitter**  :   [AntoineCup](https://twitter.com/AntoineCup)
-- **Instagram**:   Antoine99Cup
-- **Discord**  :   CupidonSauce173#0480
-- **Email**    :   CupidonSauce173@gmail.com
+- **Twitter**ㅤ:ㅤ[AntoineCup](https://twitter.com/AntoineCup)
+- **Instagram**:ㅤAntoine99Cup
+- **Discord**ㅤ:ㅤCupidonSauce173#0480
+- **Email**ㅤㅤ:ㅤCupidonSauce173@gmail.com
 
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=CupidonSauce173.CupidonSauce173" alt="visitor badge"/>
