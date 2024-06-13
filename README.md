@@ -11,7 +11,7 @@
 
 Consider giving me a little star if you wish to support me!
 
-**Currently learning C# & ASP.NET 6**
+**Currently learning C# & ASP.NET 8**
 
 ### Experiences
 <table>
