@@ -21,8 +21,8 @@ Consider giving me a little star if you wish to support me!
 | **Languages**| **Version** | 
 | ------------ |:-----------:|
 | PHP          | 7+          |
-| ASP.NET      | 5+          |
-| Java         | 15+         |
+| ASP.NET      | 8+          |
+| Java         | 21+         |
 | JavaScript   | ES6         |
 | HTML/CSS     | 5/3         |
 
